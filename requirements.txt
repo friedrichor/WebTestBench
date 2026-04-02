@@ -1,0 +1,3 @@
+tqdm
+selenium
+claude-agent-sdk
