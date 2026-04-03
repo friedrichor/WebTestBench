@@ -1,3 +1,6 @@
 tqdm
+requests
+openpyxl
 selenium
+seaborn
 claude-agent-sdk

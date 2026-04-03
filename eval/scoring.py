@@ -554,7 +554,7 @@ class ScoringPipeline:
         """
         url = self.api_config.base_url
         headers = {
-            "Authorization": f"Bearer {self.api_config.auth_token}",
+            "Authorization": f"Bearer {self.api_config.api_key}",
             "Content-Type": "application/json",
         }
         data = {
