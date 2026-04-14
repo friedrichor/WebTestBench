@@ -21,7 +21,7 @@ Key features include:
 **Example**
 
 <p align="center">
-    <img src="asserts/data_example.png" width="80%">
+    <img src="assets/data_example.png" width="80%">
 </p>
 
 All web projects can be deployed via:
